@@ -1,0 +1,44 @@
+body{
+	background-image: url(картинки/фон.img);
+}
+
+#a2{
+	color:green;
+	font-size:15px;
+}
+.Yes{
+	color:green;
+}
+.No{
+	color:red;
+}
+.message{
+	color:red;
+	background-color:#85a7de;
+	border: 1px solid #0058e6;
+	border-radius:15px;
+	margin: 10px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.message:hover{
+	border:2px solid #405d70;
+}
+#a:hover{
+	
+}
+#go{
+	background-color:#b2c8eb;
+	margin:100px;
+	border: red;
+	opacity:1;
+}
+.warning{
+	color:#700f00;
+	border: 1px solid ;
+	border-radius:15px;
+	margin: 10px;
+	margin-left: 200px;
+	margin-right: 200px;
+	
+}
